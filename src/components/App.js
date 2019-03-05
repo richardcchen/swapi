@@ -1,5 +1,5 @@
+const tracer = require('dd-trace').init()
 import React, { Component } from "react";
-
 import Header from "./Header";
 import SearchBar from "./SearchBar/SearchBar";
 import ItemList from "./ItemList";

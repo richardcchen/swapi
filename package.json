@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
+    "dd-trace": "^0.9.3",
     "lodash": "^4.17.5",
     "materialize-css": "^0.100.2",
     "react": "^16.2.0",
